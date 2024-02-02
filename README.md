@@ -18,7 +18,7 @@ The semaphores subscribed to certain topics update their operating policy as ind
 <img src="/Documentation/Immagini/StrutturaTopic.png" style="width:600px;height:600px;">
 
 ## UML Schema, Project Structure and Application Scenario
-For the UML schema, the project structure and the application scenario see folder [Documentation](/Documentation), there is also a pdf presentation of the project in italian language.
+For the UML schema, the project structure and the application scenario see folder [Documentation](/Documentation), there is also a pdf presentation of the project in english language.
 
 ## Usage
 In order to run this project, we have to excute the classes:
